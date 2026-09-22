@@ -1,0 +1,6 @@
+{
+  "name": "Slate - Practice Pad",
+  "description": "An interactive chalkboard practice pad featuring 60 FPS writing animation effects (authentic chalk dust physics, magic star sparkles, neon radiant rings, rainbow bubbles & dynamic chalk tip cursor), AI handwriting identifier (OCR, math formula extraction, penmanship analysis & neat slate conversion), child eye-care blue light protection mode, age-adapted learning for 6-12 year olds, adaptive real-world AI tutoring, dynamic skill mastery tracking, cartoon mascot encouragement, Gemini AI vision grading, autonomous AI chalkboard drawing, and live voice tutoring.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
